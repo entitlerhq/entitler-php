@@ -1,0 +1,15 @@
+{
+    "name": "entitler/entitler",
+    "description": "Official Entitler SDK for PHP (not yet available)",
+    "type": "library",
+    "license": "MIT",
+    "homepage": "https://entitler.co",
+    "authors": [
+        {
+            "name": "1843 Inc."
+        }
+    ],
+    "support": {
+        "source": "https://github.com/entitlerhq/entitler-php"
+    }
+}
